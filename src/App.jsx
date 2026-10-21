@@ -5,5 +5,5 @@ import viteLogo from './assets/vite.svg'
 import './App.css'
 
 export default function App() {
-  return (<></>)
+  return (<>app main stuffs</>)
 }
